@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palomino.Common", "Palomino.Common\Palomino.Common.csproj", "{F78C866B-AA64-4D05-ABBD-50D514F33D0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{24D0315B-9FA2-4F7F-B300-532DAE4F6FAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{8B0D474D-B301-4CD5-AE02-BA10E9237970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palomino.Web", "Palomino.Web\Palomino.Web.csproj", "{162E05E8-F658-41E9-87A1-F517A37E3951}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{F22A8FE5-FC3E-4FC8-812A-B0EB44659C8A}"
+	ProjectSection(SolutionItems) = preProject
+		DataContext.cs = DataContext.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entities", "Entities", "{A0F9829F-9F0D-4934-912F-E7A9D1AF73A0}"
+	ProjectSection(SolutionItems) = preProject
+		Products.cs = Products.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F78C866B-AA64-4D05-ABBD-50D514F33D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78C866B-AA64-4D05-ABBD-50D514F33D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78C866B-AA64-4D05-ABBD-50D514F33D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78C866B-AA64-4D05-ABBD-50D514F33D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162E05E8-F658-41E9-87A1-F517A37E3951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162E05E8-F658-41E9-87A1-F517A37E3951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162E05E8-F658-41E9-87A1-F517A37E3951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162E05E8-F658-41E9-87A1-F517A37E3951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{162E05E8-F658-41E9-87A1-F517A37E3951} = {24D0315B-9FA2-4F7F-B300-532DAE4F6FAF}
+		{F22A8FE5-FC3E-4FC8-812A-B0EB44659C8A} = {24D0315B-9FA2-4F7F-B300-532DAE4F6FAF}
+		{A0F9829F-9F0D-4934-912F-E7A9D1AF73A0} = {F22A8FE5-FC3E-4FC8-812A-B0EB44659C8A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {959F49C4-934B-4BE5-920D-A7065B873820}
+	EndGlobalSection
+EndGlobal

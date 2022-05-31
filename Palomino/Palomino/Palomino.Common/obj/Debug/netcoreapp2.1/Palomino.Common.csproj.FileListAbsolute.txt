@@ -1,0 +1,9 @@
+C:\Projects\Palomino\Palomino\Palomino.Common\bin\Debug\netcoreapp2.1\Palomino.Common.deps.json
+C:\Projects\Palomino\Palomino\Palomino.Common\bin\Debug\netcoreapp2.1\Palomino.Common.dll
+C:\Projects\Palomino\Palomino\Palomino.Common\bin\Debug\netcoreapp2.1\Palomino.Common.pdb
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.AssemblyInfoInputs.cache
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.AssemblyInfo.cs
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.dll
+C:\Projects\Palomino\Palomino\Palomino.Common\obj\Debug\netcoreapp2.1\Palomino.Common.pdb
