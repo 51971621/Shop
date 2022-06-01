@@ -1,0 +1,10 @@
+C:\Projects\Shop\Shop.Common\bin\Debug\netstandard2.1\Shop.Common.deps.json
+C:\Projects\Shop\Shop.Common\bin\Debug\netstandard2.1\Shop.Common.dll
+C:\Projects\Shop\Shop.Common\bin\Debug\netstandard2.1\Shop.Common.pdb
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.csproj.AssemblyReference.cache
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.AssemblyInfoInputs.cache
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.AssemblyInfo.cs
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.dll
+C:\Projects\Shop\Shop.Common\obj\Debug\netstandard2.1\Shop.Common.pdb
