@@ -10,7 +10,7 @@ using Shop.Web.Data;
 namespace Shop.Web.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20220531224458_ModifyProducts")]
+    [Migration("20220604235526_ModifyProducts")]
     partial class ModifyProducts
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,7 +33,7 @@ namespace Shop.Web.Migrations
 
                     b.Property<DateTime?>("LastPurchase");
 
-                    b.Property<DateTime>("LastSale");
+                    b.Property<DateTime?>("LastSale");
 
                     b.Property<string>("Name")
                         .IsRequired()

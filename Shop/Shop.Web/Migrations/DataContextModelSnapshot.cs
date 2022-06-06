@@ -31,7 +31,7 @@ namespace Shop.Web.Migrations
 
                     b.Property<DateTime?>("LastPurchase");
 
-                    b.Property<DateTime>("LastSale");
+                    b.Property<DateTime?>("LastSale");
 
                     b.Property<string>("Name")
                         .IsRequired()

@@ -21,7 +21,7 @@ namespace Shop.Web.Data.Entities
 		public DateTime? LastPurchase { get; set; }
 
 		[Display(Name = "Last Sale")]
-		public DateTime LastSale { get; set; }
+		public DateTime? LastSale { get; set; }
 
 		[Display(Name = "Is Availabe?")]
 		public bool IsAvailabe { get; set; }

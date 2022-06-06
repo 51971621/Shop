@@ -33,7 +33,6 @@ C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Shop.Web.dll
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Shop.Web.pdb
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Shop.Web.genruntimeconfig.cache
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Shop.Web.csproj.CopyComplete
-C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Shop.Web.csproj.AssemblyReference.cache
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
 C:\Projects\Shop\Shop.Web\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
